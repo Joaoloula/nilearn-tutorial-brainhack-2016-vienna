@@ -13,10 +13,15 @@ we speak.
 
 ### Installing nilearn
 
-Follow the instructions on the nilearn
-website.
+Follow the instructions on the nilearn website. Note that you have to install
+the latest version of nilearn (2.6) for the tutorial to work. We will provide
+assistance before the tutorial.
 
 http://nilearn.github.io/introduction.html#installing-nilearn
+
+You will also need the Jupyter notebook. You can install it by running:
+
+`pip install jupyter --user`
 
 ### Downloading the data for the tutorial
 
